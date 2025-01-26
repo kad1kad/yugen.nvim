@@ -11,8 +11,8 @@ local config = {
   dim_nc_background = false,
 
   groups = {
-    background = 'color800',
-    panel = 'color800',
+    background = 'color700',
+    panel = 'color700',
     border = 'color600',
     comment = 'color500',
     link = 'color200',
